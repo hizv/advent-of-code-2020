@@ -6,13 +6,8 @@ using namespace std;
 
 int main()
 {
-    ifstream fin {"01x1.in"};
+    ifstream fin {"01.in"};
 
-    // while (in)
-    // {
-    //     string in_s;
-    //     in >> in_s;
-    // }
     int k;
     map<int, int> complements;
 
